@@ -10,7 +10,7 @@ def verify(index):
     else:
         print("Target not found in list ")
 numbers =[1,2,3,4,5,6,7,8,9,10]
-result = lenear_surch(numbers,3)     #the number you want to surch
+result = lenear_surch(numbers,3)     #the number you want search
 verify(result)    
 
 
